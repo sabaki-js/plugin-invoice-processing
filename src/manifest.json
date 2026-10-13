@@ -1,35 +1,35 @@
 {
- "name": "@sabaki-js/invoice-processing",
- "domain": "invoice_processing",
- "version": "0.1.0",
- "questions": [
-  "discrepancy_severity",
-  "disposition",
-  "duplicate",
-  "matches_order",
-  "urgency"
- ],
- "keywords": [
-  "vendor",
-  "freight",
-  "terms",
-  "null",
-  "unit",
-  "total",
-  "accepted",
-  "currency",
-  "lines",
-  "discount",
-  "early",
-  "prepaid",
-  "separately",
-  "disputes",
-  "invoice",
-  "payment",
-  "delivery",
-  "condition",
-  "days",
-  "until"
- ],
- "primary": "duplicate"
+	"name": "@sabaki-js/invoice-processing",
+	"domain": "invoice_processing",
+	"version": "0.1.0",
+	"questions": [
+		"discrepancy_severity",
+		"disposition",
+		"duplicate",
+		"matches_order",
+		"urgency"
+	],
+	"keywords": [
+		"vendor",
+		"freight",
+		"terms",
+		"null",
+		"unit",
+		"total",
+		"accepted",
+		"currency",
+		"lines",
+		"discount",
+		"early",
+		"prepaid",
+		"separately",
+		"disputes",
+		"invoice",
+		"payment",
+		"delivery",
+		"condition",
+		"days",
+		"until"
+	],
+	"primary": "duplicate"
 }
