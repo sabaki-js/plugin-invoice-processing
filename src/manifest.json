@@ -3,7 +3,11 @@
  "domain": "invoice_processing",
  "version": "0.1.0",
  "questions": [
-  "category"
+  "discrepancy_severity",
+  "disposition",
+  "duplicate",
+  "matches_order",
+  "urgency"
  ],
  "keywords": [
   "vendor",
@@ -26,5 +30,6 @@
   "condition",
   "days",
   "until"
- ]
+ ],
+ "primary": "duplicate"
 }
