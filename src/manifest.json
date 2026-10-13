@@ -1,7 +1,7 @@
 {
  "name": "@sabaki-js/invoice-processing",
  "domain": "invoice_processing",
- "version": "0.1.0",
+ "version": "1.0.0",
  "questions": [
   "discrepancy_severity",
   "disposition",
