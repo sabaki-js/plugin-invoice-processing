@@ -1,5 +1,5 @@
 /**
- * @sabaki-js/invoice-processing — sabaki plugin for the `invoice_processing` domain.
+ * @sabaki-js/invoice-processing - sabaki plugin for the `invoice_processing` domain.
  *
  * Bundled `nano` mode (TF-IDF weights, <1 ms, zero dependencies).
  * Ask another question with `input.question` (see `manifest.questions`).
