@@ -1,6 +1,6 @@
 {
   "name": "@sabaki-js/invoice-processing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "description": "Sabaki plugin - decisions typées pour le domaine invoice_processing.",
   "repository": {
@@ -19,6 +19,7 @@
   },
   "files": [
     "dist",
+    "models",
     "README.md",
     "LICENSE"
   ],

@@ -1,0 +1,1 @@
+{"questions": ["discrepancy_severity", "disposition", "duplicate", "matches_order", "urgency"], "classes": {"discrepancy_severity": ["0", "1", "2", "3"], "disposition": ["approve", "hold", "manual_review", "reject"], "duplicate": ["false", "true"], "matches_order": ["false", "true"], "urgency": ["1", "2", "3"]}}
